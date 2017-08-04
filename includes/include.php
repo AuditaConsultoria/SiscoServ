@@ -80,7 +80,7 @@
 			}
 			else {
 				$_SESSION["banco"] = "siscoserv_ng";
-				self::$cn = new mysqli("siscoserv_ng.mysql.dbaas.com.br", "siscoserv_ng", "audita14", $_SESSION["banco"]);
+				self::$cn = new mysqli("siscoserv-ng.mysql.uhserver.com", "ngaudita", "audita14*", $_SESSION["banco"]);
 				
 			}
 						
