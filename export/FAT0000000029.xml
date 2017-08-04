@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InclusaoFatura xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="incluir_faturamento.xsd">
+	<NumeroRVSEmpresa>0000050027</NumeroRVSEmpresa>
+	<IdFaturaEmpresa>0000000029</IdFaturaEmpresa>
+	<NumeroFatura>3500</NumeroFatura>
+	<DataFatura>2016-01-21</DataFatura>
+	<ItemFatura>
+		<IdItemFaturaEmpresa>0000000028</IdItemFaturaEmpresa>
+		<NumeroOperacaoEmpresa>0000050027</NumeroOperacaoEmpresa>
+		<ValorFaturado>4446.51</ValorFaturado>
+		<ValorMantidoExterior>0.00</ValorMantidoExterior>
+	</ItemFatura>
+</InclusaoFatura>

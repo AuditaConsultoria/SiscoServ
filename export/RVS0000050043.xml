@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IncluirRVS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="incluir_registro.xsd">
+	<NumeroRVSEmpresa>0000050043</NumeroRVSEmpresa>
+	<NomeAdquirente>INGENIO AZUCARERO GUABIRA S/A</NomeAdquirente>
+	<EnderecoAdquirente>AV GUABIRA MONTERO,, SANTA CRUZ, BOLIVIA SN  ZONA GUABIRA</EnderecoAdquirente>
+	<CodigoPaisAdquirente>97</CodigoPaisAdquirente>
+	<IdentificadorFiscal>
+		<MotivoNaoPreenchimentoNif>2</MotivoNaoPreenchimentoNif>
+	</IdentificadorFiscal>
+	<TipoVinculacao>0</TipoVinculacao>
+	<Operacao>
+		<NumeroOperacaoEmpresa>0000050060</NumeroOperacaoEmpresa>
+		<CodigoNbs>120015910</CodigoNbs>
+		<CodigoPaisDestino>97</CodigoPaisDestino>
+		<ModoPrestacao>4</ModoPrestacao>
+		<DataInicio>2016-12-21</DataInicio>
+		<DataConclusao>2016-12-21</DataConclusao>
+		<Valor>14376.72</Valor>
+	</Operacao>
+	<InfoComplementar></InfoComplementar>
+	<CodigoMoeda>220</CodigoMoeda>
+</IncluirRVS>

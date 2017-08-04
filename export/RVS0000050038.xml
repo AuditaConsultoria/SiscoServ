@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IncluirRVS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="incluir_registro.xsd">
+	<NumeroRVSEmpresa>0000050038</NumeroRVSEmpresa>
+	<NomeAdquirente>REQUIP S.A</NomeAdquirente>
+	<EnderecoAdquirente>VALLE DEL CAUCA, , CALI, COLOMBIA   CIUDAD JARDIN</EnderecoAdquirente>
+	<CodigoPaisAdquirente>169</CodigoPaisAdquirente>
+	<IdentificadorFiscal>
+		<Nif># 805007050-0</Nif>
+	</IdentificadorFiscal>
+	<TipoVinculacao>0</TipoVinculacao>
+	<Operacao>
+		<NumeroOperacaoEmpresa>0000050055</NumeroOperacaoEmpresa>
+		<CodigoNbs>120015910</CodigoNbs>
+		<CodigoPaisDestino>169</CodigoPaisDestino>
+		<ModoPrestacao>4</ModoPrestacao>
+		<DataInicio>2016-12-19</DataInicio>
+		<DataConclusao>2016-12-19</DataConclusao>
+		<Valor>3515.00</Valor>
+	</Operacao>
+	<InfoComplementar></InfoComplementar>
+	<CodigoMoeda>220</CodigoMoeda>
+</IncluirRVS>

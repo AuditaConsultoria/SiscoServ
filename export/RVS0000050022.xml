@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IncluirRVS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="incluir_registro.xsd">
+	<NumeroRVSEmpresa>0000050022</NumeroRVSEmpresa>
+	<NomeAdquirente>CORPORACION AZUC. ECUAT. SA COAZUCAR ECUADOR</NomeAdquirente>
+	<EnderecoAdquirente>AV ALFONSO ANDRADE VIA A NARANJAL, CANAR, EQUADOR KM 2  CATORCEAVA SUR</EnderecoAdquirente>
+	<CodigoPaisAdquirente>239</CodigoPaisAdquirente>
+	<IdentificadorFiscal>
+		<MotivoNaoPreenchimentoNif>2</MotivoNaoPreenchimentoNif>
+	</IdentificadorFiscal>
+	<TipoVinculacao>0</TipoVinculacao>
+	<Operacao>
+		<NumeroOperacaoEmpresa>0000050022</NumeroOperacaoEmpresa>
+		<CodigoNbs>120015910</CodigoNbs>
+		<CodigoPaisDestino>239</CodigoPaisDestino>
+		<ModoPrestacao>4</ModoPrestacao>
+		<DataInicio>2016-02-23</DataInicio>
+		<DataConclusao>2016-02-23</DataConclusao>
+		<Valor>3255.26</Valor>
+	</Operacao>
+	<InfoComplementar></InfoComplementar>
+	<CodigoMoeda>220</CodigoMoeda>
+</IncluirRVS>

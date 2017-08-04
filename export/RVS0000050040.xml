@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IncluirRVS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="incluir_registro.xsd">
+	<NumeroRVSEmpresa>0000050040</NumeroRVSEmpresa>
+	<NomeAdquirente>NOBLE ARGENTINA S.A</NomeAdquirente>
+	<EnderecoAdquirente>ESTANISLAO LOPES, TIMBUES SANTA FE, ARGENTINA 8514  </EnderecoAdquirente>
+	<CodigoPaisAdquirente>63</CodigoPaisAdquirente>
+	<IdentificadorFiscal>
+		<Nif>30-70779108-6</Nif>
+	</IdentificadorFiscal>
+	<TipoVinculacao>0</TipoVinculacao>
+	<Operacao>
+		<NumeroOperacaoEmpresa>0000050057</NumeroOperacaoEmpresa>
+		<CodigoNbs>120015910</CodigoNbs>
+		<CodigoPaisDestino>63</CodigoPaisDestino>
+		<ModoPrestacao>4</ModoPrestacao>
+		<DataInicio>2016-12-21</DataInicio>
+		<DataConclusao>2016-12-21</DataConclusao>
+		<Valor>95015.57</Valor>
+	</Operacao>
+	<InfoComplementar></InfoComplementar>
+	<CodigoMoeda>220</CodigoMoeda>
+</IncluirRVS>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<IncluirRVS xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="incluir_registro.xsd">
+	<NumeroRVSEmpresa>0000050046</NumeroRVSEmpresa>
+	<NomeAdquirente>AZUCARERA PARAGUAYA S.A</NomeAdquirente>
+	<EnderecoAdquirente>AV GENERAL ARTIGAS, ASSUNCION, PARAGUAI 552 PARAGUAI </EnderecoAdquirente>
+	<CodigoPaisAdquirente>586</CodigoPaisAdquirente>
+	<IdentificadorFiscal>
+		<MotivoNaoPreenchimentoNif>2</MotivoNaoPreenchimentoNif>
+	</IdentificadorFiscal>
+	<TipoVinculacao>0</TipoVinculacao>
+	<Operacao>
+		<NumeroOperacaoEmpresa>0000050063</NumeroOperacaoEmpresa>
+		<CodigoNbs>120015910</CodigoNbs>
+		<CodigoPaisDestino>586</CodigoPaisDestino>
+		<ModoPrestacao>4</ModoPrestacao>
+		<DataInicio>2016-12-21</DataInicio>
+		<DataConclusao>2016-12-21</DataConclusao>
+		<Valor>5625.00</Valor>
+	</Operacao>
+	<InfoComplementar></InfoComplementar>
+	<CodigoMoeda>220</CodigoMoeda>
+</IncluirRVS>
